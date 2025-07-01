@@ -32,7 +32,7 @@ project/
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/ipl-score-predictor.git
+git clone [https://github.com/your-username/ipl-score-predictor.git](https://github.com/adarshm0602/IPL.git)
 cd ipl-score-predictor
 
 2. Create and Activate Virtual Environment (Optional but Recommended)
