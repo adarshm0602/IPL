@@ -3,6 +3,7 @@
 A machine learning-powered web app that predicts the first innings final score in an IPL match based on real-time match conditions like overs, runs, and wickets.
 
 This project uses Flask, scikit-learn, and a Random Forest Regressor trained on historical IPL match data.
+Project Deployed link  https://ipl-ur6z.onrender.com 
 
 ## Features
 
